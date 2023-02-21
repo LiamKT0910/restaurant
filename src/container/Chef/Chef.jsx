@@ -32,7 +32,7 @@ const Chef = () => (
         <p>Kevin Luo</p>
         <p className="p__opensans">Chef & Founder</p>
         <img src={images.sign} alt="sign" />
-      </div>
+      </div><p></p>
     </div>
   </div>
 );
